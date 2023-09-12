@@ -1,0 +1,30 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardikDK/my-electron-app.git"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "Hardik Kotak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HardikDK/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/HardikDK/my-electron-app#readme",
+  "dependencies": {
+    "node": "^18.17.0",
+    "npm": "^10.1.0"
+  },
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
